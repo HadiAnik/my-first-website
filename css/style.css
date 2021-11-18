@@ -90,6 +90,16 @@ section {
   height: 100vh;
   transition: all .5s;
 }
+.contact {
+  border: 5px solid purple;
+  border-radius: 20px;
+  margin: 10px 5px 0px 20px;
+  padding: 5px 5px 5px 10px;
+  text-align: justify;
+}
+.sort {
+  width: 25%;
+}
 
 
 
